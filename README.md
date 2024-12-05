@@ -1,5 +1,5 @@
 ## Hi there, I'm Maksim Nagorov 👋
-
+## I'm Junior Data Scientist and I'm looking for a job
 <!--
 **mnagorov/mnagorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
