@@ -1,5 +1,5 @@
 ## Hi there, I'm Maksim Nagorov 👋
-## I'm Junior Data Scientist and I'm looking for a job
+As tasks related to analytics and modeling appeared in my work, I became interested in data analysis and machine learning. Now I'm looking for my first job in a new field.
 <!--
 **mnagorov/mnagorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
