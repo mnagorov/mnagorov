@@ -1,5 +1,6 @@
 ## Hi there, I'm Maksim Nagorov 👋
 As tasks related to analytics and modeling appeared in my work, I became interested in data analysis and machine learning. Now I'm looking for my first job in a new field.
+
 Skills: Python, Jupyter Notebook, PostgreSQL, Catboost, Scikit-learn, Data Analysis, Pandas, Keras, NumPy, Matplotlib, Data Processing.
 
 
